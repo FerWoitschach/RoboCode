@@ -86,7 +86,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 1.0" "" "Roboto Mono is a trademark of Google." "" "Google & @FerWoitschach" "" "Google.com" "Christian Robertson & @FerWoitschach" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
+LangName: 1033 "" "" "" "" "" "Version 1.0" "" "Roboto Mono is a trademark of Google." "" "Google & @FerWoitschach (RoboCode)" "" "Google.com" "Christian Robertson & @FerWoitschach (RoboCode)" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
