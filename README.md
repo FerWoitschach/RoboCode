@@ -9,3 +9,8 @@ docker run --rm --volume "$(pwd)/release":/in --volume "$(pwd)/nerd":/out --env 
 ```
 
 La `|` no me gusta, creo que debe ser más gruesa (al menos en Windows Terminal se ve más fina que la `l`).
+
+vim → tmux → c
+
+En ese orden. Optimizar mi layout para que los símbolos
+sean de fácil acc
