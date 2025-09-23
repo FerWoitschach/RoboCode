@@ -1,5 +1,7 @@
 ![RoboCode](.repo/robocode.png)
 
+LOS PARÉNTESIS Y LOS NÚMEROS, ESPECIALMENTE EL 0, NO ENCAJAN!
+
 Initial credits to [Christian Robertson](https://fonts.google.com/?query=Christian%20Robertson), [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)'s designer.
 
 ## Patch
